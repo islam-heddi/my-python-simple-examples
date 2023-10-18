@@ -1,3 +1,4 @@
+# Today i started learning python 
 # my-python-simple-examples
 # i created 4 examples
 solve equation of degree 2
